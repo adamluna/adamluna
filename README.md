@@ -55,6 +55,7 @@ Continuing to build practical experience applying data science and analytics tec
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamluna&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamluna&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=adamluna&show_icons=true&theme=github_dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamluna&layout=compact&theme=github_dark" height="165">
+</p>
