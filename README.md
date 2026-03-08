@@ -50,3 +50,11 @@ https://github.com/adamluna/dsc-530-assignments
 ## Current Goal
 
 Continuing to build practical experience applying data science and analytics techniques while completing my MS in Data Science.
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamluna&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamluna&layout=compact)
